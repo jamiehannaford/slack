@@ -1,4 +1,4 @@
-module github.com/slack-go/slack
+module github.com/jamiehannaford/slack
 
 go 1.13
 
